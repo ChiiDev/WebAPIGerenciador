@@ -15,13 +15,3 @@ namespace WebAPI.Models
         }
     }
 }
-
-
-
-//List<Usuario> lista = new List<Usuario>();
-            //lista.Add(new Usuario { ID = 1, Login = "Ane", Email = "anecarolineba@hotmail.com", Password = "paçoca" });
-            //lista.Add(new Usuario { ID = 2, Login = "Ane", Email = "anecarolineba@hotmail.com", Password = "paçoca" });
-            //lista.Add(new Usuario { ID = 3, Login = "Ane", Email = "anecarolineba@hotmail.com", Password = "paçoca" });
-            //lista.Add(new Usuario { ID = 4, Login = "Ane", Email = "anecarolineba@hotmail.com", Password = "paçoca" });
-
-            //return lista;

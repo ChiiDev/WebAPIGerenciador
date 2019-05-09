@@ -16,12 +16,7 @@ namespace WebAPIGerenciador.Models
 
         public Conexao()
         {
-            //con = new SqlConnection(System.Configuration.ConfigurationManager.AppSettings["conexao"]);
-            //string con = ConfigurationManager.ConnectionStrings["myConnectionString"].ConnectionString;
-
             con = new SqlConnection(Settings.Default.conexao);
-            
-
         }
     }
 }
